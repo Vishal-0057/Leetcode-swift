@@ -13,4 +13,6 @@
 
 //: [Group Anagrams](GroupAnagrams)
 
+//: [Verifying Alien Dictionary](VerifyingAlienDictionary)
+
 
